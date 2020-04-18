@@ -1,10 +1,10 @@
 Package: NetImpute
 Type: Package
-Title: Single-cell RNA-seq data imputation based on biological network information.
+Title: scRNA-seq data imputation based on biological networks towards the identification of cell types.
 Version: 0.1
 Author: Yang Qi, Yang Guo
 Maintainer: Yang Qi <yang.qi@mail.nwpu.edu.cn>, Yang Guo <gyang@mail.nwpu.edu.cn>
-Description: Single-cell RNA-seq data imputation based on biological network information.
+Description: Single-cell RNA-seq data imputation using biological networks to identify cell types.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
