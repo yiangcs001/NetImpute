@@ -1,5 +1,4 @@
 # NetImpute
-
 Introduction
 ----------
 NetImpute is an approach towards the identification of cell types from scRNA-seq data by integrating multiple types of biological networks. And the NetImpute method includes two main models: the imputation model and the integration model. 
